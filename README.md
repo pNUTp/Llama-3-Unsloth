@@ -1,4 +1,3 @@
-```markdown
 # Language Model with Inference and Speech Synthesis
 
 ## Overview
@@ -30,7 +29,7 @@ pip install xformers[cuda] -U
 pip install wandb
 pip install gtts
 pip install SpeechRecognition
-```
+
 
 ## Setup
 1. Clone the repository and install the dependencies as mentioned above.
